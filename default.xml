@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+  <default revision="master" remote="github" />
+
+  <project name="square/okhttp.git" path="okhttp3" />
+  <project name="ReactiveX/RxJava.git" path="RxJava_1" revision="1.x" />
+  <project name="ReactiveX/RxJava.git" path="RxJava_2" revision="2.x" />
+</manifest>
